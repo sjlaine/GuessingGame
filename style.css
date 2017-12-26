@@ -1,0 +1,93 @@
+html {
+  box-sizing: 'border-box'
+}
+#body {
+    position: relative;
+    top: 150px;
+    background-image: url('https://cdn.pixabay.com/photo/2017/07/10/23/43/question-mark-2492009_1280.jpg');
+}
+#headers {
+    position: relative;
+    top: 50%;
+    text-align: center;
+    font-family: 'Helvetica', sans serif;
+    color: white;
+    margin-top: -70px;
+}
+#main {
+    text-align: center;
+}
+#players-input {
+    margin-right: -50px;
+    font-size: 50px;
+    border-radius: 100%;
+    text-align: center;
+    height: 150px;
+    width: 150px;
+}
+#submit {
+    border-radius: 100%;
+    text-align: center;
+    height: 50px;
+    width: 100px;
+    margin-top: 80px;
+}
+
+ul {
+    list-style: none;
+    position: relative;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    margin-left: -80px;
+}
+li {
+    display: inline;
+    font-size: 60px;
+    padding: 20px 40px 20px 40px;
+    margin: 20px 5px 0 5px;
+    border: solid 2px black;
+    border-radius: 10%;
+    background-color: white;
+}
+
+#menu-btns {
+    position: relative;
+    padding: 10px 20px 10px 20px;
+    margin-bottom: 100px;
+    margin-left: -30px;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+
+
+#footer {
+    width: 100%;
+    border-top: solid 1px black;
+    background-color: white;
+    position: fixed;
+    bottom: 10px;
+}
+
+
+#fullstack {
+
+}
+
+#signature {
+    position: relative;
+    text-align: center;
+    top: 30px;
+    font-family: 'Helvetica', sans serif;
+    color: red;
+}
+
+#grace {
+   position: relative;
+   top: 20px;
+   right: 45px;
+}
