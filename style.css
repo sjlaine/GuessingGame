@@ -5,14 +5,19 @@ html {
     position: relative;
     top: 150px;
     background-image: url('https://cdn.pixabay.com/photo/2017/07/10/23/43/question-mark-2492009_1280.jpg');
+    background-size: 100%;
 }
 #headers {
     position: relative;
     top: 50%;
     text-align: center;
-    font-family: 'Helvetica', sans serif;
+    font-family: 'Helvetica';
     color: white;
-    margin-top: -70px;
+    margin-top: -130px;
+    margin-left: -50px;
+}
+#title {
+    font-size: 60px;
 }
 #main {
     text-align: center;
@@ -69,8 +74,8 @@ img {
     width: 100%;
     border-top: solid 1px black;
     background-color: white;
-    position: fixed;
-    bottom: 10px;
+    position: absolute;
+    bottom: -160px;
 }
 
 
