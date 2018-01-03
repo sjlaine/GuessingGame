@@ -4,7 +4,7 @@ html {
 #body {
     position: relative;
     top: 150px;
-    background-color: url('questionmarks.jpg');
+    background-color: black;
     background-size: 100%;
 }
 #headers {
